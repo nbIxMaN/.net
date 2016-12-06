@@ -1,0 +1,6 @@
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\bin\Debug\valid.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\bin\Debug\valid.exe
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\bin\Debug\valid.pdb
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\obj\Debug\valid.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\obj\Debug\valid.exe
+c:\users\computer\documents\visual studio 2015\Projects\valid\valid\obj\Debug\valid.pdb

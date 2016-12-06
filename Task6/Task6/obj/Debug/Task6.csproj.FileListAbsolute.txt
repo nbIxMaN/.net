@@ -1,0 +1,9 @@
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.Cache
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.exe
+c:\users\computer\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.pdb
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\Task6\Task6\obj\Debug\Task6.ExamForm.resources

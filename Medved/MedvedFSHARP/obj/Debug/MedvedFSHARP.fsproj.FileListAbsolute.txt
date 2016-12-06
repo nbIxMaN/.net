@@ -1,0 +1,13 @@
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\obj\Debug\MedvedFSHARP.fsprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedFSHARP.XML
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedFSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedFSHARP.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\FSharp.Core.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedBASIC.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedCSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedBASIC.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedBASIC.xml
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\MedvedCSHARP.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\bin\Debug\FSharp.Core.xml
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\obj\Debug\MedvedFSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedFSHARP\obj\Debug\MedvedFSHARP.pdb

@@ -1,0 +1,4 @@
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedCSHARP\bin\Debug\MedvedCSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedCSHARP\bin\Debug\MedvedCSHARP.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedCSHARP\obj\Debug\MedvedCSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedCSHARP\obj\Debug\MedvedCSHARP.pdb

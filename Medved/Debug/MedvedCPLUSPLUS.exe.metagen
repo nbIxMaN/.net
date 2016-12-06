@@ -1,0 +1,22 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly MedvedCPLUSPLUS, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MedvedBASIC, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MedvedCSHARP, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MedvedFSHARP, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=EnableJITcompileOptimizer, EnableJITcompileTracking
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class MedvedC: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :MedvedFSHARP.MedvedFSHARP
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MeetMedved(): PrivateScope, Public, Virtual, HideBySig

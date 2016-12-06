@@ -1,0 +1,11 @@
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\bin\Debug\MedvedBASIC.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\bin\Debug\MedvedBASIC.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\bin\Debug\MedvedBASIC.xml
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\bin\Debug\MedvedCSHARP.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\bin\Debug\MedvedCSHARP.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.vbprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.Resources.resources
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.vbproj.GenerateResource.Cache
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.dll
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.xml
+c:\users\computer\documents\visual studio 2015\Projects\Medved\MedvedBASIC\obj\Debug\MedvedBASIC.pdb

@@ -1,0 +1,5 @@
+﻿  MedvedC++.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MedvedC++.vcxproj -> c:\users\computer\documents\visual studio 2015\Projects\Medved\Debug\MedvedC++.dll
+  MedvedC++.vcxproj -> c:\users\computer\documents\visual studio 2015\Projects\Medved\Debug\MedvedC++.pdb (Partial PDB)

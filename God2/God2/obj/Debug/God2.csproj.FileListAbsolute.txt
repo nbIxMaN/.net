@@ -1,0 +1,5 @@
+c:\users\computer\documents\visual studio 2015\Projects\God2\God2\obj\Debug\God2.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\God2\God2\bin\Debug\God2.exe
+c:\users\computer\documents\visual studio 2015\Projects\God2\God2\bin\Debug\God2.pdb
+c:\users\computer\documents\visual studio 2015\Projects\God2\God2\obj\Debug\God2.exe
+c:\users\computer\documents\visual studio 2015\Projects\God2\God2\obj\Debug\God2.pdb
